@@ -1,7 +1,7 @@
 ### Hi, this is my information 👋
 
 
-I am a TI engineer, my goal is to continue learning how things work, curiosity is always welcome when one has the interest to know them. 📌
+My goal is to continue learning how things work, curiosity is always welcome when one has the interest to know them. 📌
 
 - 🖥️ I am TI Analyst.
 - 🎓 I studied at the Tecnológico Nacional de México Campus Occidente del Estado de Hidalgo.
